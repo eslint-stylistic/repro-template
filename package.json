@@ -1,0 +1,13 @@
+{
+  "name": "eslint-stylistic-repro",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@stylistic/eslint-plugin": "^1.5.1",
+    "@typescript-eslint/parser": "^6.16.0",
+    "eslint": "^8.56.0"
+  }
+}
