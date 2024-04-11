@@ -4,7 +4,7 @@
 
 <!-- Fill with links to issues that this reproduction is related to. -->
 
-- https://github.com/eslint-stylistic/eslint-stylistic/issues
+- https://github.com/eslint-community/eslint-stylistic/issues
 
 ## Expected Behavior
 
