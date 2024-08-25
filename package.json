@@ -3,7 +3,8 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
   },
   "devDependencies": {
     "@stylistic/eslint-plugin": "^2.6.4",
