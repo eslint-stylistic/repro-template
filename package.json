@@ -7,8 +7,8 @@
     "lint:fix": "eslint . --fix"
   },
   "devDependencies": {
-    "@stylistic/eslint-plugin": "^5.7.0",
-    "@typescript-eslint/parser": "^8.53.0",
+    "@stylistic/eslint-plugin": "^5.7.1",
+    "@typescript-eslint/parser": "^8.53.1",
     "eslint": "^9.39.2"
   }
 }
